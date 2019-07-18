@@ -7,6 +7,7 @@ android {
         applicationId "com.samsung.microbit"
         minSdkVersion 19
         targetSdkVersion 26
+        multiDexEnabled true //important
     }
     buildTypes {
         release {
