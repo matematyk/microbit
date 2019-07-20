@@ -6,5 +6,4 @@
 .DS_Store
 /build
 /captures
-caches/gradle_models.ser
-/.idea/caches
+.externalNativeBuild
