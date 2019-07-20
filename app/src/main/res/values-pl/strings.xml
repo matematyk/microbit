@@ -26,7 +26,7 @@
     <!-- External links -->
     <string name="create_code_url" translatable="false">http://microbit.org/code</string>
     <string name="discover_url" translatable="false">http://microbit.org/</string>
-    <string name="my_scripts_url" translatable="false">https://www.microbit.co.uk/app/</string>
+    <string name="my_scripts_url" translatable="false">https://makecode.microbit.org/</string>
     <string name="privacy_policy_url" translatable="false">http://microbit.org/privacy</string>
     <string name="terms_of_use_url" translatable="false">http://microbit.org/terms-of-use</string>
     <string name="about_url" translatable="false">http://microbit.org/about</string>
@@ -196,45 +196,45 @@
     <string name="deleteMicrobitTitle">Delete micro:bit?</string>
     <string name="deleteMicrobitMessage">Are you sure you want to remove this device?</string>
 
-    <string name="your_projects">Your projects</string>
-    <string name="saved_projects">saved projects</string>
-    <string name="start_new_project">Start a new project</string>
-    <string name="new_project">New project</string>
-    <string name="loading_page_msg">Please wait. Page is loading&#8230;</string>
+    <string name="your_projects">Twoje projekty</string>
+    <string name="saved_projects">zapisane projekty</string>
+    <string name="start_new_project">Rozpocznij nowy projekt</string>
+    <string name="new_project">Nowy projekt</string>
+    <string name="loading_page_msg">Proszę zaczekać. Strona się ładuje&#8230;</string>
 
     <!-- Popup message -->
-    <string name="delete_project_message">Are you sure you want to remove this file?\r\nThe file will be permanently removed from this application.</string>
-    <string name="delete_project_title">Delete project?</string>
-    <string name="record_audio">Record Audio?</string>
+    <string name="delete_project_message">Jesteś pewien, że chcesz usunąć ten plik?\r\nPlik zostanie trwale usunięty z tej aplikacji..</string>
+    <string name="delete_project_title">Usunąć projekt?</string>
+    <string name="record_audio">Nagrać Audio?</string>
     <string name="audio_recorder_notification">micro:bit Audio Recorder</string>
 
-    <string name="create_new_project">Create\na new project</string>
-    <string name="my_scripts">My Scripts</string>
+    <string name="create_new_project">Stwórz nowy projekt</string>
+    <string name="my_scripts">Moje projekty</string>
 
-    <string name="download_existing">Download Existing</string>
-    <string name="downloading">Downloading&#8230;</string>
+    <string name="download_existing">Pobieranie Istniejących</string>
+    <string name="downloading">Pobieranie&#8230;</string>
 
-    <string name="q_overwrite_existing">A file with same name already exists. Overwrite the existing file?</string>
-    <string name="rename_file">Rename Download File</string>
+    <string name="q_overwrite_existing">Plik o tej samej nazwie już istnieje. Nadpisać istniejący plik?</string>
+    <string name="rename_file">Zmień nazwę pliku do pobrania</string>
 
-    <string name="download_complete">Download complete. Flash to micro:bit ?</string>
-    <string name="download_failed_msg">Try again later</string>
-    <string name="download_failed_title">Try again later</string>
-    <string name="projects">Projects</string>
+    <string name="download_complete">Pobieranie zakończone. Dodać na micro:bit?</string>
+    <string name="download_failed_msg">Spróbuj jeszcze raz później.</string>
+    <string name="download_failed_title">Spróbuj jeszcze raz później.</string>
+    <string name="projects">Projekty</string>
     <string name="pair_my_device">Połącz</string>
     <string name="connect_my_device">Połącz</string>
     <string name="flash">Dodaj kod na płytkę</string>
-    <string name="view">View</string>
-    <string name="no_projects">Nie ma projektów!</string>
+    <string name="view">Widok</string>
+    <string name="no_projects">Brak projektów</string>
     <string name="connected_to">Połącz do</string>
     <string name="not_connected">Brak połączenia</string>
-    <string name="micro_bit_reset_msg">Please reset your micro:bit and try again.</string>
+    <string name="micro_bit_reset_msg">Proszę zresetować swój micro:bit i spróbować ponownie.</string>
     <string name="flashing_title">Dodanie kodu na płytkę</string>
     <string name="pairing_title">Pairing</string>
     <string name="flashing_error_msg">micro:bit not in correct state</string>
     <string name="flashing_phase1_msg">Finding the device&#8230;</string>
     <string name="pairing_phase2_msg">Press button "A" on micro:bit to pair successfully. \n\n Waiting for the secret key</string>
-    <string name="pairing_phase2_msg_New">Enter PIN</string>
+    <string name="pairing_phase2_msg_New">Wprowadź PIN</string>
 
     <string name="web_view_demo">Web View Demo</string>
     <string name="flashing_project" formatted="false">Flashing \'%s\'</string>
