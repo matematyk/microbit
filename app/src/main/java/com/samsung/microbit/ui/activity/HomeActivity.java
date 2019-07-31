@@ -350,9 +350,7 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
                     urlToOpen = getString(R.string.create_code_url);
                 }
 
-                Intent intent = new Intent(Intent.ACTION_VIEW);
-                intent.setData(Uri.parse(urlToOpen));
-
+                Intent intent = new Intent(this, MakeCodeActivity.class);
                 startActivity(intent);
             }
             break;
