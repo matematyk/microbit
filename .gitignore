@@ -7,4 +7,8 @@
 /build
 /captures
 caches/gradle_models.ser
-/.idea/caches
+.idea/caches
+.idea/.name
+.idea/modules.xml
+.idea/vcs.xml
+*.iml

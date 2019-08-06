@@ -110,6 +110,10 @@
             android:label="@string/device_details"
             android:screenOrientation="portrait"/>
         <activity
+            android:name=".ui.activity.MakeCodeActivity"
+            android:label="@string/device_details"
+            android:screenOrientation="portrait"/>
+        <activity
             android:name=".ui.activity.PairingActivity"
             android:configChanges="orientation|screenSize|keyboardHidden"
             android:label="@string/title_activity_connect"
