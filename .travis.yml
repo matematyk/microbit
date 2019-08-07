@@ -1,4 +1,4 @@
-language: java
+language: android
 install: true
 
 os: linux
