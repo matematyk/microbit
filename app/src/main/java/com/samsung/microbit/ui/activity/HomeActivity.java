@@ -351,7 +351,6 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
                 //}
 
                 Intent intent = new Intent(this, MakeCodeActivity.class);
-
                 startActivity(intent);
             }
             break;
