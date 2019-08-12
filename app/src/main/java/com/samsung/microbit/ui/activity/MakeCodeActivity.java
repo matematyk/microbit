@@ -20,7 +20,7 @@ public class MakeCodeActivity extends Activity {
         mWebView = new WebView(this);
         WebSettings webSettings = mWebView.getSettings();
         webSettings.setJavaScriptEnabled(true);
-        mWebView.loadUrl("https://makecode.microbit.org/");
+        mWebView.loadUrl(getString(R.string.makecode_url));
         mWebView.setWebViewClient(new WebViewClient() {
             @Override
             public boolean shouldOverrideUrlLoading(WebView view, String url) {

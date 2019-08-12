@@ -346,9 +346,9 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
                 //Update Stats
                 GoogleAnalyticsManager.getInstance()
                         .sendNavigationStats(HomeActivity.class.getSimpleName(), "create-code");
-                if(urlToOpen == null) {
-                    urlToOpen = getString(R.string.create_code_url);
-                }
+                //if(urlToOpen == null) {
+                //    urlToOpen = getString(R.string.create_code_url);
+                //}
 
                 Intent intent = new Intent(this, MakeCodeActivity.class);
                 startActivity(intent);
